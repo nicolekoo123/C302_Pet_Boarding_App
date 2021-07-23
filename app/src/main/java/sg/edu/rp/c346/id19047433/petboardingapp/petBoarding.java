@@ -1,8 +1,9 @@
 package sg.edu.rp.c346.id19047433.petboardingapp;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class petBoarding {
+public class petBoarding implements Serializable {
     private Date boardDate;
     private String name;
     private int numDays;
