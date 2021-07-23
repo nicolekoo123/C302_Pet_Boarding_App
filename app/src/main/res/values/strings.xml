@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Boarding App</string>
+    <string-array name="spinnerItems">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rabbit</item>
+    </string-array>
+
+</resources>
